@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DirectoryApp02</string>
+    <string-array name="department_names">
+        <item></item>
+        <item>Mizoram House</item>
+        <item>Raj Bhavan</item>
+        <item>Chief Minister's Office</item>
+        <item>Council Of Ministers</item>
+        <item>Member of Legislative Assembly</item>
+        <item>Picnic Spot</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
